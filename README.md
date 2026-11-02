@@ -1,5 +1,5 @@
 ## Hi, I''m Mercy Ajayi- Kids Coding Instructor
-Founder of Hesed COding Academy, Code Instructor @ 9jacodekids Academy | Virtual Educator @ Golden Minds Academy.
+Founder of Hesed Coding Academy, Code Instructor @ 9jacodekids Academy | Virtual Educator @ Golden Minds Academy.
 Biology Education( University Of Benin,Edo State) | Scratch and Creative Computing Educator
 
 ## What I Do
