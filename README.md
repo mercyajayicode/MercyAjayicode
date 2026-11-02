@@ -1,15 +1,30 @@
-## Hi there 👋
+## Hi, I''m Mercy Ajayi- Kids Coding Instructor
+Founder of Hesed COding Academy, Code Instructor @ 9jacodekids Academy | Virtual Educator @ Golden Minds Academy.
+Biology Education( University Of Benin,Edo State) | Scratch and Creative Computing Educator
 
-<!--
-**mercyajayicode/MercyAjayicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Do
+I teach kids ages 6 - 18 how to code using Scratch, turning Games into logic Lessons
+-Scratch programming (Loops,Conditionals,Variables,Cloning)
+-Creative Computing Curriculum( Harvard + Raspberry pi foundation)
+- IGCSE / Checkpoint Biology & Science Prep.
+- Virtual Classroom Management (Zoom, Google Classroom)
 
-Here are some ideas to get you started:
+- Portfolio
+- ** Scratch Games Studio - 10+ interactive games for kids.
+- ** Lesson Plans**Experience CS and code.org resources
+- ** Youtube Demo Classes** - coming soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- Tools I Use
+- Scratch, code.org, Canva, Google Classroom
+- ### Let's connect
+- Email: ajayimercy98@gmail.com
+- location: Remote - Ibadan, Nigeria( open to global roles)
+  
+  >>> "Teaching Kids to code is teacching them to think."
+
+
+
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
